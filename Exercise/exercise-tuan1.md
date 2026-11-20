@@ -17,3 +17,5 @@ Có 2 dạng lỗi:
 Đối với những dự án lớn dùng Pseudocode có thể rất rối. Khi mô hình hóa bằng flowchat chúng ta sẽ dễ hình dung và đối chiếu hơn
 ## Viết Function đánh giá classification model bằng f1-score
 ![alt text](image.png)
+## Tính kết quả theo các activation function
+![alt text](image-1.png)
