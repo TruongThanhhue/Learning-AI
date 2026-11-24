@@ -19,3 +19,11 @@ Có 2 dạng lỗi:
 ![alt text](image.png)
 ## Tính kết quả theo các activation function
 ![alt text](image-1.png)
+## Viết function chọn regression loss function để tính loss
+Trong quá trình trainng, loss biểu thị việc sai số dự đoán của model so với giá trị thực, càng train - loss càng giảm -> đi đúng hướng. Nếu loss tăng -> model đang sai
+3 Hàm loss phổ biến:
+    +) MAE (Mean Absolute Error)
+    +) MSE (Mean Squared Error)
+    +) RMSE(Root Mean Square Error)
+![alt text](image-2.png)
+![alt text](image-3.png)
