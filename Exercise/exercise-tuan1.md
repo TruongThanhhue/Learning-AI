@@ -27,3 +27,6 @@ Trong quá trình trainng, loss biểu thị việc sai số dự đoán của m
     +) RMSE(Root Mean Square Error)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+## Viết các function để ước lượng các hàm số
+![alt text](image-4.png)
+Không cho chạy đến vô cùng. Chỉ chạy đến n
